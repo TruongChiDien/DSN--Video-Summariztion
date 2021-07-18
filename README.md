@@ -1,7 +1,7 @@
 ## Get started
 1. Download preprocessed datasets
 ```bash
-git clone https://github.com/KaiyangZhou/pytorch-vsumm-reinforce
+git clone https://github.com/TruongChiDien/DSN--Video-Summariztion.git
 cd pytorch-vsumm-reinforce
 ```
 Then go to this [line](https://drive.google.com/drive/folders/1xiw9-rexKFAIocc4shvwPUqTL2fbpxfC?usp=sharing) to download Summe dataset and frames
